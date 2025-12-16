@@ -1,0 +1,1 @@
+["HR_mean", "HR_std", "HR_min", "HR_max", "rmssd_mean", "rmssd_std", "sdnn_mean", "sdnn_std", "lf/hf_mean", "acc_x_avg_std", "acc_x_avg_low_motion_ratio", "acc_y_avg_std", "acc_y_avg_low_motion_ratio", "acc_z_avg_std", "acc_z_avg_low_motion_ratio", "gyr_x_avg_std", "gyr_y_avg_std", "gyr_z_avg_std", "steps_sum", "calories_sum", "missingness_score_mean"]
