@@ -10,3 +10,7 @@ joblib
 matplotlib
 python-multipart
 openai
+
+xgboost
+lightgbm
+catboost
